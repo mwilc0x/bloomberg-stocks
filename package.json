@@ -3,7 +3,9 @@
   "version": "0.0.1",
   "dependencies": {
     "blpapi": "~0.1.6",
-    "socket.io": "~0.9.16"
+    "express": "3.4.7"
+    "socket.io": "~0.9.16",
+    "underscore": "~1.5.2"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
