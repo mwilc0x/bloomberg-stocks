@@ -2,7 +2,8 @@
   "name": "bloomberg-stocks",
   "version": "0.0.1",
   "dependencies": {
-    "blpapi": "~0.1.6"
+    "blpapi": "~0.1.6",
+    "socket.io": "~0.9.16"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
